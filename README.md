@@ -1,1 +1,1 @@
-# m1u1
+print("Hello world!")
