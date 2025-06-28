@@ -1,3 +1,4 @@
+from config import token
 import time, threading, schedule
 import telebot
     
